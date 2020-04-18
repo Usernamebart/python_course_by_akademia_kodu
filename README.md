@@ -31,8 +31,7 @@ pełnoletnia czy niepełnoletnia.
 14. Napisz program wypisujący liczby od 1 do 10.
 15. Napisz program wypisujący liczby do 20 do 1 (w
 tej kolejności)
-16. Napisz program drukujący na ekranie 10 gwiazdek:
-**********
+16. Napisz program drukujący na ekranie 10 gwiazdek.
 17. Napisz program, który wypisuje liczby od 2 do 50.
 18. Napisz program, który symuluje działanie słownika
 polsko-angielskiego. Użytkownik podaje słowo po
