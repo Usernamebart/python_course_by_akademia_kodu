@@ -1,5 +1,6 @@
 # python_course_by_akademia_kodu
 python online course for beginners
+18.04.2020 on fb
 
 List of exercises:
 
